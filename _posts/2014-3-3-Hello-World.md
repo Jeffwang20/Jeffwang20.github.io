@@ -12,10 +12,10 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 ---
 layout: page
-title: <i class="fas fa-user"></i> About Xingyong W
+title: <i class="fas fa-user"></i> About Jeff Wang
 ---
 
-Xingyong Wang joined the School of Chemistry and Molecular Bioscience at the University of Wollongong in May 2016. 
+Jeff Wang joined the School of Chemistry and Molecular Bioscience at the University of Wollongong in May 2016. 
 He received his BSc (2008) and PhD (2013) from [Nanjing University, China](http://www.nju.edu.cn) under the supervision of [Professor Jing Ma](http://itcc.nju.edu.cn/~majing/).
 He then undertook postdoctoral research at Nanjing University with [Professor Xinping Wang](http://hysz.nju.edu.cn/xpwang/).
 
