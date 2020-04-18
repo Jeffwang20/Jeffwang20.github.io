@@ -13,6 +13,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 ---
 layout: page
 title: <i class="fas fa-user"></i> About Jeff Wang
+
 ---
 
 Jeff Wang joined the School of Chemistry and Molecular Bioscience at the University of Wollongong in May 2016. 
