@@ -1,6 +1,8 @@
 ---
+layout: post
+title: My First Post
 published: true
 ---
-## A New Post
+## Good Day!
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+This is my first post. I will need to learn Markdown from here [Markdown](http://daringfireball.net/projects/markdown/).
