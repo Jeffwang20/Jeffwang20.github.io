@@ -2,13 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I use this blog to learn Github Pages and record things happened every day as well.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More stuff will be coming in the future.
 
 ### Contact me
 
